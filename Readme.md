@@ -4,3 +4,5 @@ A simple project for campus announcements.
 - Add new notices
 Hii
 Asini the Artist
+asini
+
