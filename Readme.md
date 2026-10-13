@@ -1,10 +1,6 @@
-\# Campus Notice Board
-
+# Campus Notice Board
 A simple project for campus announcements.
-
-\- Read notices
-
-\- Add new notices
-
+- Read notices
+- Add new notices
 Hii
-
+Asini the Artist
